@@ -1,4 +1,0 @@
-faster-whisper
-ollama
-edge-tts
-gradio
